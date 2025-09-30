@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.app</groupId>
-    <artifactId>datefinderservice</artifactId>
+    <artifactId>datefinder</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>datefinderservice</name>
-    <description>datefinderservice</description>
+    <name>datefinder</name>
+    <description>datefinder</description>
     <url/>
     <licenses>
         <license/>
